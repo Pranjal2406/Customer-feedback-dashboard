@@ -1,5 +1,6 @@
 # Customer-feedback-dashboard
-![image](https://github.com/Pranjal2406/Customer-feedback-dashboard/assets/139079056/ca529b0d-9c07-4260-95d0-eb01b13c4745)
+![image](https://github.com/Pranjal2406/Customer-feedback-dashboard/assets/139079056/f13fcb9c-d605-467e-879e-c089dd6d82b9)
+
 
 
 

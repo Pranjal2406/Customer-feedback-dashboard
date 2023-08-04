@@ -1,5 +1,7 @@
 # Customer-feedback-dashboard
-![image](https://github.com/Pranjal2406/Customer-feedback-dashboard/assets/139079056/224d0401-164b-41d1-ab94-9d4ae04d9bb7)
+![image](https://github.com/Pranjal2406/Customer-feedback-dashboard/assets/139079056/ca529b0d-9c07-4260-95d0-eb01b13c4745)
+
+
 
 This project involved the creation of a dynamic and informative Customer Feedback Analysis Dashboard for a hotel using Microsoft Power BI. The main focus was on 
 harnessing Power BI's robust data cleaning, query editing, and visualization capabilities to transform raw customer feedback data into actionable insights for informed
